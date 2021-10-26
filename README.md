@@ -1,1 +1,1 @@
-# ColorList-
+# OG-list and colorlist
